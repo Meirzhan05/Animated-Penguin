@@ -2,4 +2,4 @@
 
 ## Live Preview
 
-Experience the live version of the project here: [Etch-a-Sketch Live Preview](https://meirzhan05.github.io/Etch-a-Sketch/)
+Experience the live version of the project here: [Animated-Penguin Live Preview](https://meirzhan05.github.io/Animated-Penguin/)
